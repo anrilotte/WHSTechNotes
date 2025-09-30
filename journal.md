@@ -14,3 +14,7 @@ Computer science can be valuable in the fashion industry by giving creators the 
 # September 22, 2025
 
 I don't think a virtual store where you can actually earn money is a very great idea. Social interaction is a core part of the human experienc; an actual job on a kids video game will likely limit peoples social well-being, especially if they treat it like an actual job and rarely every get out of their house. Jobs are where most peoples social interactions come from, while many of those are bad, people often make friends at their workplace you can't really do that on an online game (assuming it functions just as roblox does) There would be some interaction there but only via the roblox chat. In summary, A virtual story where you can actually recieve payment may not go extremely well as it'll affect peoples social interaction. 
+
+# september 30, 2025
+
+I don't know what 6,7 means; I heard people constantly shouting it, but I thought it was just really annoying so I ignored it and didn't bother learning the actual meaning.
