@@ -17,4 +17,4 @@ I don't think a virtual store where you can actually earn money is a very great 
 
 # september 30, 2025
 
-I don't know what 6,7 means; I heard people constantly shouting it, but I thought it was just really annoying so I ignored it and didn't bother learning the actual meaning.
+I don't know what 6,7 means; I heard people constantly shouting it, but I found it really annoying so I ignored it and didn't bother learning the actual meaning.
