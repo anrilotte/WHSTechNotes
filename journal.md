@@ -18,3 +18,6 @@ I don't think a virtual store where you can actually earn money is a very great 
 # september 30, 2025
 
 I don't know what 6,7 means; I heard people constantly shouting it, but I found it really annoying so I ignored it and didn't bother learning the actual meaning.
+
+# october 6, 2025
+If i were in charge of my school, I'd disallow phone use during class but allow children to go on their phones during lunch/breakfast; I'd take in mind kids who focus better on independent work when listening to music. I wouldn't restrict educational games or websites, because I think children shouldn't be constantly struggling to find websites that aren't restricted when trying to do research projects. AI use will be fully banned because nobody knows how to use these tools correctly. These rules would make school better because it encourages an educational environment while also taking the kids in mind.
