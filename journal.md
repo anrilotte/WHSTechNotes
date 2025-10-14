@@ -24,3 +24,6 @@ If i were in charge of my school, I'd disallow phone use during class but allow 
 
 # october 7, 2025
 On hour of code I did 'make a flappy game'
+
+# october 8, 2025
+3D T-rex game
