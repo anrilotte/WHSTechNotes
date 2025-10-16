@@ -30,3 +30,6 @@ On hour of code I did 'make a flappy game'
 
 # October 9, 2025
 Space invader 
+
+# October 16, 2025
+I asked the Ai to make an educational, in-depth quiz about medicinal knowledge and progression in the victorian era; I asked for it to be educational but aimed towards college-aged kids. It did the aesthetics of the quiz correctly however it wasn't very indepth nor seemed like it was actually aimed towards older teens/adults. I could improve on this by making my request more in-depth rather than just write a sentence or two. Being good at prompt engineering can be valuable for future careers because it helps people become more effective in using Ai and its intended purpose of it being a tool to help people in the workplace.
