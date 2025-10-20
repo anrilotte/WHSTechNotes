@@ -37,6 +37,6 @@ I asked the Ai to make an educational, in-depth quiz about medicinal knowledge a
 # October 20, 2025
 | Name     | Class   | Seat |
 | :------- | :----   | :--- |
-| Franklin | seccond | 91A  |
+| Franklin | second  | 91A  |
 | Hardeep  | third   | 61F  |
 | Marla    | first   | 35B  |
