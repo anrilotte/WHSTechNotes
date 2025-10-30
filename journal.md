@@ -60,3 +60,8 @@ I asked the Ai to make an educational, in-depth quiz about medicinal knowledge a
 | Franklin | second  | 91A  |
 | Hardeep  | third   | 61F  |
 | Marla    | first   | 35B  |
+
+----
+
+# October 27, 2025
+Some examples of technology that help people during natural disasters are EWS or early weather warning which is a system that detects and warns people of various threats (like natural disasters), this can help people prepare or evaculate in time to avoid a natural disaster. Various communication devices and news radios can also aid people during natural disasters. If I could invent a new piece of technology to assist people in natural disasters I'd make a device that both warns people of natural disasters, tells them about how long its gonna last, and redirects them towards fast evacuation routes or shelters in their area as well as what they might need during a disaster.
