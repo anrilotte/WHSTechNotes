@@ -68,3 +68,6 @@ Some examples of technology that help people during natural disasters are EWS or
 
 # November 3, 2025
 It's a big deal if SNAP runs out of funding because millions of people use SNAP to help them feed themselves and their family, without SNAP families in poverty will be unable to get that extra help. Technology could help people find places that are feeding people for free or buy food at a lower price than irl stores, Families can locate food banks or just organizations giving out food near them with technology. However, some people may be unable to afford internet or technology in general so technology won't benefit every single person who was previously relying on SNAP to help. If I was creating a tool to help food insecurity I'm not sure that I'd name it but I'd make it free (or atleast affordable) and It'd calculate just how much help someone would need and it'd give people money based on that as well as what they're buying and how much that would cost.
+
+# November 10, 2025
+I'm looking forward to thanksgiving, both because we don't have school and cuz I usually go to my stepdads moms house and I really like her.
