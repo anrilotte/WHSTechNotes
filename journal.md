@@ -71,3 +71,6 @@ It's a big deal if SNAP runs out of funding because millions of people use SNAP 
 
 # November 10, 2025
 I'm looking forward to thanksgiving, both because we don't have school and cuz I usually go to my stepdads moms house and I really like her.
+
+# December 8, 2025
+Self-driving cars may not recognize things like a stopped school bus because it's only paying attention to stop signs that are attached to the ground rather than one on a bus. Its likely that Self-driving cars are informed only of the basic laws of traffic (i.e. speed limits, traffic lights, etc.) and not things that are more obvious to us. The detector might fail in this situation due to the fact that the stop sign is attached to a car rather than on its own, they might not recognize that stop sign as a actual traffic sign as the programmers may have only put stop signs that aren't attached to anything in the cars database, causing it to miss ones that schoolbuses use. if I worked in Waymo, I'd enter obvious (or widely accepted) traffic rules into the car's databases and make sure they're following those new updates before I send them to drive in the real world.
