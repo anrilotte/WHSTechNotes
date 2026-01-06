@@ -77,3 +77,6 @@ Self-driving cars may not recognize things like a stopped school bus because it'
 
 # December 15, 2025
 This winter break I'm planning on visiting my family in kansas; we don't have any plans above just visiting and hanging out with my grandma and cousins, though me and my brother were considering going ice skating because theres a rink in wichita.
+
+# January 6, 2026
+i used technology this winter break by using my phone the entire time. This break I used my phone and my laptop to read, play games, and watch videos. Throughout the break, I read books I'd downloaded on my phone, watched shows and movies I'd been meaning to watch but didn't have the time during school, and played games to pass the time.
