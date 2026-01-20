@@ -66,20 +66,37 @@ I asked the Ai to make an educational, in-depth quiz about medicinal knowledge a
 # October 27, 2025
 Some examples of technology that help people during natural disasters are EWS or early weather warning which is a system that detects and warns people of various threats (like natural disasters), this can help people prepare or evaculate in time to avoid a natural disaster. Various communication devices and news radios can also aid people during natural disasters. If I could invent a new piece of technology to assist people in natural disasters I'd make a device that both warns people of natural disasters, tells them about how long its gonna last, and redirects them towards fast evacuation routes or shelters in their area as well as what they might need during a disaster.
 
+----
+
 # November 3, 2025
 It's a big deal if SNAP runs out of funding because millions of people use SNAP to help them feed themselves and their family, without SNAP families in poverty will be unable to get that extra help. Technology could help people find places that are feeding people for free or buy food at a lower price than irl stores, Families can locate food banks or just organizations giving out food near them with technology. However, some people may be unable to afford internet or technology in general so technology won't benefit every single person who was previously relying on SNAP to help. If I was creating a tool to help food insecurity I'm not sure that I'd name it but I'd make it free (or atleast affordable) and It'd calculate just how much help someone would need and it'd give people money based on that as well as what they're buying and how much that would cost.
+
+----
 
 # November 10, 2025
 I'm looking forward to thanksgiving, both because we don't have school and cuz I usually go to my stepdads moms house and I really like her.
 
+----
+
 # December 8, 2025
 Self-driving cars may not recognize things like a stopped school bus because it's only paying attention to stop signs that are attached to the ground rather than one on a bus. Its likely that Self-driving cars are informed only of the basic laws of traffic (i.e. speed limits, traffic lights, etc.) and not things that are more obvious to us. The detector might fail in this situation due to the fact that the stop sign is attached to a car rather than on its own, they might not recognize that stop sign as a actual traffic sign as the programmers may have only put stop signs that aren't attached to anything in the cars database, causing it to miss ones that schoolbuses use. if I worked in Waymo, I'd enter obvious (or widely accepted) traffic rules into the car's databases and make sure they're following those new updates before I send them to drive in the real world.
+
+----
 
 # December 15, 2025
 This winter break I'm planning on visiting my family in kansas; we don't have any plans above just visiting and hanging out with my grandma and cousins, though me and my brother were considering going ice skating because theres a rink in wichita.
 
+----
+
 # January 6, 2026
 i used technology this winter break by using my phone the entire time. This break I used my phone and my laptop to read, play games, and watch videos. Throughout the break, I read books I'd downloaded on my phone, watched shows and movies I'd been meaning to watch but didn't have the time during school, and played games to pass the time.
 
+----
+
 # January 12, 2026
 The private minecraft server Autcraft was created for the purpose of being a safe and welcoming space for autistic people, using clear rules and good moderation to build an accepting community to protect players from bullying and harrasment present in other spaces. There's a lot of harm that can happen in unmoderated or badly moderated spaces: cyberbullying/harrasment (including things like death threats or doxing), scams, hate speech + radicalization, inappropriate material, and the spreading of misinformation. Autcraft's design choices protected its community from these things via heavy moderation and chat filters preventing bullying and harrasment of its users, strict rules preventing griefing, and a whitelist of improved players who all understand much of eachother's experiences. A developers' choices on how their work functions affects users significantly, creating a positive or negative experience for the user just based on the decisions made during the building process, things like a creators decision to add moderation and rules can help create a welcoming community for all its users; Ignoring these safety and inclusion aspects can promote a hateful and unsafe environment: take 4chan or twitter for example, both are known for being flooded with hate and violent rhetoric due to their subpar moderation and lack of good safety precautions. Some safe and inclusive online spaces could be guarded forums or discord servers, heavily moderated open world game communities, or online support groups.
+
+----
+
+# January 20, 2026
+Technology can assist in making a more fair and just society by providing people with easier spaces to speak about injustices and build a community around making society better. Online spaces have been used to speak up about all sorts of unfairness in society that may not have been clear to people had it not been for technology. One example of this could be people using social media apps to raise awareness to problems, political and otherwise, present in our society today. Another example is people using having the ability to connect to hotlines and report things like domestic abuse, human trafficking, ect. Both examples matter because they help spread news that may not be present and/or may be presented through a biased lense in news stations or articles, and easy connections to others can help victims of things like abuse get out of their situations and seek justice quicker.
