@@ -100,3 +100,8 @@ The private minecraft server Autcraft was created for the purpose of being a saf
 
 # January 20, 2026
 Technology can assist in making a more fair and just society by providing people with easier spaces to speak about injustices and build a community around making society better. Online spaces have been used to speak up about all sorts of unfairness in society that may not have been clear to people had it not been for technology. One example of this could be people using social media apps to raise awareness to problems, political and otherwise, present in our society today. Another example is people using having the ability to connect to hotlines and report things like domestic abuse, human trafficking, ect. Both examples matter because they help spread news that may not be present and/or may be presented through a biased lense in news stations or articles, and easy connections to others can help victims of things like abuse get out of their situations and seek justice quicker.
+
+----
+
+# January 29, 2026
+The tests I took this week were the reading and lanuage ones, I think I did well on it and I didn't really find it difficult. The language test especially went really well in my opinion as I don't think I got lost as much, I struggled a bit with the reading test due to the fact I kept zoning out constantly the longer it went on so I didn't comprehend some of the questions but I think I still did good on it. I think test prep probably won't help me because any of my problems with MAP testing come from the environment which doesn't exactly change with practice or review, though it may help a little bit with other tests like science or math.
