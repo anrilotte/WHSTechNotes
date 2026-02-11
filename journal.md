@@ -114,4 +114,4 @@ personal hygiene and self-care is important in shared environments because it he
 ----
 
 # February 10, 2026
-I doon't really enjoy football nor do I watch sports, I'm not a fan of it because I find it a bit boring. I didn't watch the superbowl.
+I don't really enjoy football nor do I watch sports because I find them all a bit boring. I didn't watch the superbowl.
