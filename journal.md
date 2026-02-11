@@ -110,3 +110,8 @@ The tests I took this week were the reading and lanuage ones, I think I did well
 
 # February 2, 2026
 personal hygiene and self-care is important in shared environments because it helps prevent the spread of diseases. Things like strong smells, distracting behaviours, and loud conversations can interfere with people's ability to focus or feel comfortable in environments because it refocuses their attention towards the distractor rather than what their supposed to be doing, especially in school and work settings where it inhibits people's ability to focus on a lesson or do their work correctly. Some reasonable expectations for behaviour in shared environments is cleaning after yourself and keeping yourself clean, keep to the approprate talking level depending on the environment, pay attention to your surroundings and don't be a distraction. Self-regulation is an important skill to learn for school and future workplace because it keeps you out of trouble and from distracting/annoying everybody around you. One habit I can improve to be more respectful of shared spaces is my volume, as I tend to get loud when I talk.
+
+----
+
+# February 10, 2026
+I doon't really enjoy football nor do I watch sports, I'm not a fan of it because I find it a bit boring. I didn't watch the superbowl.
