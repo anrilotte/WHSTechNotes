@@ -136,7 +136,7 @@ I don't really enjoy football nor do I watch sports because I find them all a bi
  - Skills, Tools, Languages: Experience in statistical programming languages (R, Python, SQL), working knowledge of data science techniques, Strong research and analytical skills as well as critical and lateral thinking skills.
  - What the job does: A decision analyst extracts, explores, validates, and cleanses data using advanced coding techniques. They design and apply analytical and statistical models to segment, describe, and understand customers and their purchasing habits/proclivities.
 
-I'd rather be a cybersecurity analyst at Booz allen than a decision analyst at H-E-B. I'd rather be a cybersecurity analyst because they use problem-solving skills more often than anything else, and they help design and engineering of security solutions. This is more appealing to me because I'd be better at problem-solving security gaps than understanding customers which is what decision analysts do, I'm also more interested in helping with design and integration of security systems.
-=
+- I'd rather be a cybersecurity analyst at Booz allen than a decision analyst at H-E-B. I'd rather be a cybersecurity analyst because they use problem-solving skills more often than anything else, and they help design and engineering of security solutions. This is more appealing to me because I'd be better at problem-solving security gaps than understanding customers which is what decision analysts do, I'm also more interested in helping with design and integration of security systems.
+
 
 ----
