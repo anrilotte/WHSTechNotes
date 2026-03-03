@@ -115,3 +115,25 @@ personal hygiene and self-care is important in shared environments because it he
 
 # February 10, 2026
 I don't really enjoy football nor do I watch sports because I find them all a bit boring. I didn't watch the superbowl.
+
+----
+
+# March 3, 2026
+1.)  
+~ Company: Booz Allen Hamilton
+~ Job title: Cybersecurity analyst
+~ Education required: Master's degree in cybersecurity
+~ Experience required: Experience working at a Security operations center or Regional cyber center and conducting digital forensics.
+~ Skills, Tools, Languages: Strong problem solving skills and the ability to identify and respond to ransomware, phishing, and threat scenarios, and translate technical findings into clear language. 
+~ Certifications: DoD 8140 IAT Level II Certification
+~ What the job does: A cybersecurity analyst helps monitor security environments and identify security gaps. They aids in the design, engineering, and integration of security solutions into enterprise systems with a strong emphasis on incident response readiness.
+
+2.) 
+ ~ Company: H-E-B Digital
+ ~ job title: Decision science analyst II
+ ~ Education required: A degree and/or formal training, certification, or work experience
+ ~ Experience required: 5+ years of relevant experience (preferably in retail)
+ ~ Skills, Tools, Languages: Experience in statistical programming languages (R, Python, SQL), working knowledge of data science techniques, Strong research and analytical skills as well as critical and lateral thinking skills.
+ ~ What the job does: A decision analyst extracts, explores, validates, and cleanses data using advanced coding techniques. They design and apply analytical and statistical models to segment, describe, and understand customers and their purchasing habits/proclivities.
+
+ - I'd rather be a cybersecurity analyst at Booz allen than a decision analyst at H-E-B. I'd rather be a cybersecurity analyst because they use problem-solving skills more often than anything else, and they help design and engineering of security solutions. This is more appealing to me because I'd be better at problem-solving security gaps than understanding customers which is what decision analysts do, I'm also more interested in helping with design and integration of security systems.
