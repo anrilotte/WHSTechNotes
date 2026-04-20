@@ -139,3 +139,6 @@ I don't really enjoy football nor do I watch sports because I find them all a bi
  I'd rather be a cybersecurity analyst at Booz allen than a decision analyst at H-E-B. I'd rather be a cybersecurity analyst because they use problem-solving skills more often than anything else, and they help design and engineering of security solutions. This is more appealing to me because I'd be better at problem-solving security gaps than understanding customers which is what decision analysts do, I'm also more interested in helping with design and integration of security systems.
  
 ----
+
+# April 20, 2026
+This is a free  week
