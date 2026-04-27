@@ -142,3 +142,8 @@ I don't really enjoy football nor do I watch sports because I find them all a bi
 
 # April 20, 2026
 This is a free  week
+
+----
+
+# April 27, 2026
+One think I've been paying attention to this week is comic books, specifically batman comic books. Technology played a role in a lot of things related to comics. Comic books are only a thing because of technological advancement, if we hadn't invented technology we'd still be an agricultural society with very little drawing/writing mediums. Batman/DC comics specifically have been a thing for 80 years, and are still so extremely popular because of technology: people reading and sharing them constantly on social media, new media being released about the comics all the time (ex. Movies, shows, more comics, etc.) I'm specifically able to pay attention to them via technology, as it allows me to read these comics on my phone for a much easier time finding and reading through multiple comics in a short amount of time rather than have to go to a store every single time I finish one.
